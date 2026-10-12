@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>दिलचस्प पहेली | Sagar Official Riddle</title>
+    <meta name="description" content="क्या बोलते हैं वह चीज़ जैसी दिखती है वह वैसी नहीं है वह उससे भी कुछ इतनी बढ़कर है जिसकी इंसान कल्पना नहीं कर सकता।">
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #f8fafc;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .riddle-card {
+            background: #1e293b;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            max-width: 500px;
+            text-align: center;
+            border: 1px solid #334155;
+        }
+        h2 {
+            color: #38bdf8;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #e2e8f0;
+        }
+        .author {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="riddle-card">
+        <h2>विशेष पहेली (Riddle)</h2>
+        <p>"जो चीज़ जैसी दिखती है, वह वैसी नहीं है, वह उससे भी कुछ इतनी बढ़कर है जिसकी इंसान कल्पना नहीं कर सकता।"</p>
+        <div class="author">— प्रस्तुतकर्ता: SAGAR OFFICIAL</div>
+    </div>
+
+</body>
+</html>
+  
